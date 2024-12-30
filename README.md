@@ -1,5 +1,8 @@
 # Azure-Data-Engineering-Materials
 
+![image](https://github.com/user-attachments/assets/01f12963-c8a3-42bb-8e87-5cf6e45e34f0)
+
+
 9 Key Azure Data Engineering Tools For Data Engineers 
 Explore nine of the best Azure data engineering tools and services on your Azure Data Engineer Learning Path - 
 
